@@ -1,0 +1,11 @@
+axes.labelsize: 12
+xtick.labelsize: 12
+ytick.labelsize: 12
+figure.figsize: 8, 6
+axes.grid: True
+grid.linestyle: --
+grid.color: gray
+grid.alpha: 0.5
+lines.linewidth: 2
+axes.spines.top: False
+axes.spines.right: False
